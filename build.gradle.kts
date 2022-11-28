@@ -1,5 +1,5 @@
 plugins {
-    kotlin("multiplatform") version "1.7.20"
+    kotlin("multiplatform") version "1.7.22"
 }
 
 group = "io.p2pscraper"
